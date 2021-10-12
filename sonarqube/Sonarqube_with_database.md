@@ -137,11 +137,7 @@ apt install net-tools
  4. use instance which has atleast 2 GB of RAM
  
 
-   
-## 🔗 My Profile
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.udemy.com/user/ar-shankar/)  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravdsun/)
-
+  
 
   ### 💡 Help/Suggestions or 🐛 Bugs
 
