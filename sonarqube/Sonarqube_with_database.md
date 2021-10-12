@@ -139,6 +139,4 @@ apt install net-tools
 
   
 
-  ### 💡 Help/Suggestions or 🐛 Bugs
-
-Thank you for your interest in contributing to our project. Whether it is a bug report, new feature, correction, or additional documentation or solutions, we greatly value feedback and contributions from our community. [Start here](/issues)   
+ 
