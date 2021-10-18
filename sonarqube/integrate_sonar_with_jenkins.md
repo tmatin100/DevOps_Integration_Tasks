@@ -1,7 +1,7 @@
 # Integrate Sonarqube wit Jenkins 
 
 ## 🧰 Prerequisites
-1. a Sonarqube Server [Click here to Setup Sonarqube server]()
+1. a Sonarqube Server [Click here to Setup Sonarqube server](https://github.com/tmatin100/DevOps_Integration_Tasks/blob/main/sonarqube/Setup_SonarQube.md)
 2. A Jenkins server [Click here to set up a Jenkins server](https://github.com/tmatin100/DevOps_Integration_Tasks/blob/main/jenkins/jenkins_installation.md)
 
 
